@@ -1,4 +1,4 @@
-# BE_470_Lab
+# BE_470_Lab (see branches for individual labs)
 
    # Lab 1
     470_lab1_faster_and_faster = led increases flash speed
