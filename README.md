@@ -16,3 +16,16 @@
     470_lab2_light_sensor = rc circuit with photoresistor
     470_lab2_GSR = replacing the photoresistor with human element (open wires)
     470_lab2_med_device_number_pushes = interfacing LCD, GSR and RC circuitry
+
+ # Lab 3
+    470_lab3_led_control = control order and on/off of 3 leds by keyboard press
+    470_lab3_corrected_colorPAL = calibrated colorpal can identify colors 
+    
+ # Lab 4
+    470_lab4_EEPROM_writing = testing arduino memory storage
+    470_lab4_data_logger = recording photoresistor data using EEPROM
+    470_lab4_servo = basic servo control
+    470_lab4_servo_potentiometer = controlling servo angle with potentiometer
+    470_lab4_servo_varying_speed = controlling servo speed with Serial Monitor
+    470_lab4_servo_varying_speed_and_angle = combining previous two for both functions
+    470_lab4_fixed_rotation_angle = pseudo-colorPAL set-up, rotating fixed positions   
